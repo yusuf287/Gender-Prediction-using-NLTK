@@ -1,5 +1,5 @@
 # Gender-Prediction-using-NLTK
 
-This package is a Python 3 port of Stephen Holiday's genderPredictor nltk.NaiveBayesClassifier wrapper. 
-It has been rewritten mostly for personal use and is now used in a variety of unreleased classification projects of mine. 
-More details to come on how I have used it...
+This project builds text classifier model for gender prediction.
+
+NLTK module of python was used. This model is useful in various use cases like when company wants to automate the loan eligibility process (real time) based on customer detail like names provided while filling online application form. NaiveBayesClassifier was used to build classifier.
